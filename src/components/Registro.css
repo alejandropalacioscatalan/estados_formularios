@@ -1,0 +1,15 @@
+.register-container {
+  width: 450px;
+  height: 600px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.iconos-grid {
+  padding-left: 20 px;
+}
